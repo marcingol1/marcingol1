@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcingol1
-- 👀 I’m interested in Frontend, Javascript, React.
-- 🌱 I’m currently learning React Three Fiber / three.js.
+- 👀 I’m interested in Software Web Development (as a fullstack / architect).
+- 🌱 I’m currently learning NestJS, application Architecture.
 - 📫 My portfolio site: https://dev-portfolio-smoky.vercel.app/
 
 <!---
