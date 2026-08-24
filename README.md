@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcingol1
-- 👀 I’m Software Developer (as a fullstack / architect).
+- 👀 I’m a Software Developer (as a fullstack / architect).
 - 🌱 I’m currently expanding my knowledge constantly upon Software Architecture and System Design with backend implementations.
 - 📫 My portfolio site: https://dev-portfolio-smoky.vercel.app/
 
